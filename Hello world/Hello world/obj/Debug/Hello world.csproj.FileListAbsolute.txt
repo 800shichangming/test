@@ -1,5 +1,0 @@
-E:\C#练习\Hello world\Hello world\bin\Debug\Hello world.exe.config
-E:\C#练习\Hello world\Hello world\bin\Debug\Hello world.exe
-E:\C#练习\Hello world\Hello world\bin\Debug\Hello world.pdb
-E:\C#练习\Hello world\Hello world\obj\Debug\Hello world.exe
-E:\C#练习\Hello world\Hello world\obj\Debug\Hello world.pdb
